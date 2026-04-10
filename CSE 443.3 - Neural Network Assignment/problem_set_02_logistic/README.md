@@ -6,6 +6,7 @@ The objective of this project is to build a machine learning model that can pred
 ** Dataset
 The dataset used in this project is the Bank Marketing Dataset. It contains 17 different attributes such as age, job, marital status, 
 balance, loan status, and previous marketing campaign information. The target variable is 'y', which indicates whether the customer subscribed to a term deposit (yes or no).
+The dataset was loaded from the Kaggle environment, where it was processed using Python (pandas).
 
 ***** Methodology
 Data Preprocessing: Initially, the dataset was loaded using pandas. Since several columns contained categorical values (such as job, marital status, etc.), 
