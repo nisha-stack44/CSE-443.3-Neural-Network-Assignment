@@ -16,6 +16,8 @@ Inside each folder, there are two categories:
 
 The images are taken from pediatric patients and are already arranged in a structured format, which makes them easy to use for training deep learning models.
 
+The dataset was loaded from the Kaggle environment, where it was already structured into training, validation, and testing folders.
+
 **Methodology
 
 ** Data Preparation
